@@ -1,0 +1,16 @@
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\bin\Debug\sql_calısma_2.exe.config
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\bin\Debug\sql_calısma_2.exe
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\bin\Debug\sql_calısma_2.pdb
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\bin\Debug\tr\sql_calısma_2.resources.dll
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calisma_2.csproj.AssemblyReference.cache
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.FrmAnaForm.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.FrmGiris.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.FrmGrafikler.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.Frmistatislik.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.Properties.Resources.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.FrmAnaForm.tr.resources
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calisma_2.csproj.GenerateResource.cache
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calisma_2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\tr\sql_calısma_2.resources.dll
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.exe
+C:\Users\Mustafa ALP\source\c# çalışmaları\sql_calısma_2\sql_calısma_2\obj\Debug\sql_calısma_2.pdb
